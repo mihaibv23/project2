@@ -1,11 +1,5 @@
 var Sequelize = require('sequelize');
-var sequelize = new Sequelize('articlesdb','darpanpathak','');
-
-/*var sequelize = new Sequelize('nextmetest','nextme','dpn123',{
-   host:"bamboo.arvixe.com",
-   port:3306,
-   dialect: 'mysql'
-});*/
+var sequelize = new Sequelize('articlesdb','mihaibv95','');
 
 var entities = {};
 
